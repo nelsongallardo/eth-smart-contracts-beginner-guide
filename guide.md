@@ -2,8 +2,12 @@
 
 ### Basics
 
+- [Introduction to Ethereum](https://ethereum.org/en/developers/docs/intro-to-ethereum/)
 - [Ethereum networks](https://ethereum.org/en/developers/docs/networks/)
+- [Accounts](https://ethereum.org/en/developers/docs/accounts/)
 - [Transactions](https://ethereum.org/en/developers/docs/transactions/)
+- [Ethereum Virtual Machine](https://ethereum.org/en/developers/docs/evm/)
+- [Smart Contracts](https://ethereum.org/en/developers/docs/smart-contracts/)
 - [Anatomy of smart contracts](https://ethereum.org/en/developers/docs/smart-contracts/anatomy/)
 - [Gas and fees](https://ethereum.org/en/developers/docs/gas/)
 - [Compiling smart contracts](https://ethereum.org/en/developers/docs/smart-contracts/compiling/)
