@@ -1,3 +1,10 @@
+## Ethereum Smart Contracts
+
+&nbsp;
+
+Just a few links I found useful to start with smart contracts in ethereum. 
+    
+ &nbsp;
 
 
 ### Basics
@@ -12,18 +19,24 @@
 - [Gas and fees](https://ethereum.org/en/developers/docs/gas/)
 - [Compiling smart contracts](https://ethereum.org/en/developers/docs/smart-contracts/compiling/)
 
+&nbsp;
+
 ### Tools needed
+
 
 * **[Alchemy](https://alchemyapi.io/eth)**: A development platform and API that allows to make requests to the Ethereum blockchain without having to run a node
 * **[Metamask](https://metamask.io/)**: an ethereum wallet that is also a browser plugin that let me use the Ethereum Mainnet to use dApps. It also allows me to use other networks to test without spending real gas in the Mainnet
 * **Hardhat/Truffle**: development environment to debug, compile, deploy, etc. (see IDEs section)
 * **Editor**: could be vsCode
 
+&nbsp;
 
 ### IDEs
 
 - [Hardhat documentation on deploying your contracts](https://hardhat.org/guides/deploying.html)
 - [Truffle documentation on networks and app deployment](https://www.trufflesuite.com/docs/truffle/advanced/networks-and-app-deployment)
+
+&nbsp;
 
 ### First Tutorial to understand the different pieces
 
