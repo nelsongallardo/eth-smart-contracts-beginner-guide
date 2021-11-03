@@ -53,3 +53,4 @@ Just a few links I found useful to start with smart contracts in ethereum.
 - [Proof of Work vs Proof of Stake: Basic Mining Guide](https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/)
 - [Oracles](https://ethereum.org/en/developers/docs/oracles/)
 - [Solidity documentation](https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html)
+- [What are ABIs?](https://docs.alchemy.com/alchemy/guides/eth_getlogs#what-are-ab-is)
