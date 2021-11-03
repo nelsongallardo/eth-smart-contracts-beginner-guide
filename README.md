@@ -41,3 +41,15 @@ Just a few links I found useful to start with smart contracts in ethereum.
 ### First Tutorial to understand the different pieces
 
 - [Hello World Smart Contract for Beginners](https://ethereum.org/en/developers/tutorials/hello-world-smart-contract/)
+
+&nbsp;
+
+### Further reading
+- [Ethereum Gas Explained](https://defiprime.com/gas)
+- [Web2 vs Web3](https://ethereum.org/en/developers/docs/web2-vs-web3/)
+- [Nodes and Clients](https://ethereum.org/en/developers/docs/nodes-and-clients/)
+- [Nodes as a service](https://ethereum.org/en/developers/docs/nodes-and-clients/nodes-as-a-service/)
+- [Consensus mechanisms](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
+- [Proof of Work vs Proof of Stake: Basic Mining Guide](https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/)
+- [Oracles](https://ethereum.org/en/developers/docs/oracles/)
+- [Solidity documentation](https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html)
