@@ -50,7 +50,7 @@ Gas is basically the fees we have to pay when executing a transaction in the Eth
 My interpretation is that Gwei or wei is to ETH, what cents or pennies are to dollar.  
 Without going into too much details (see [documentation](https://ethereum.org/en/developers/docs/gas/#post-london)), each block has a base fee and also a tip for the miners. 
 - **How to calculate gas price?**:  ```Amount of Gas units (limit) * (Base fee + Tip) = gas price in gwei```.   
-In [this](https://ethgasstation.info) site we can see how much is currently the base fee and also the tip. With this data, and also knowing how many units of Gas our smart contract requires, we can estimate how much ETH it will cost us to deploy the smart contract.
+In [this](https://ethgasstation.info) site we can see how much is currently the base fee and also the tip. With this data, and also knowing how many units of Gas our smart contract requires, we can estimate how much gwei (or ETH after converting) it will cost us to deploy the smart contract.
 - **How do we know how many units of Gas are required to deploy our smart contract?** - When we compile our smart contract using the [remix](https://remix.ethereum.org/) ide, it will tell us the estimated *transaction cost*, this is the amount of Gas units required.
 
 &nbsp;
