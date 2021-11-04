@@ -31,7 +31,7 @@ Just a few links I found useful to start with smart contracts in ethereum.
 
 &nbsp;
 
-### IDEs
+### IDEs (can choose one of the next list)
 
 - [Hardhat documentation on deploying your contracts](https://hardhat.org/guides/deploying.html)
 - [Truffle documentation on networks and app deployment](https://www.trufflesuite.com/docs/truffle/advanced/networks-and-app-deployment)
@@ -43,6 +43,14 @@ Just a few links I found useful to start with smart contracts in ethereum.
 - [Hello World Smart Contract for Beginners](https://ethereum.org/en/developers/tutorials/hello-world-smart-contract/)
 
 &nbsp;
+
+### Tokens
+This project has examples of smart contracts creating tokens using the standar ERC20. This standard allows developers to create tokens in the same way, following a pre defined list of functions, making it easier to treat different tokens in the same way within the network. To know more about this standard read:
+- [ERC-20 Token Standard](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
+- Explanation of the different functions in the standard, recommend reading this! [Understand the ERC-20 Token Smart Contract](https://ethereum.org/en/developers/tutorials/understand-the-erc-20-token-smart-contract/)
+#### Examples
+- This example contains an ERC20 token created from scratch. The smart contract also contains the interfaces defined in the ERC20 standard and the contract implementing those interfaces. [Example](https://github.com/nelsongallardo/eth-smart-contracts-beginner-guide/blob/main/examples/TokenWithInterfaces.sol)
+- This example imports a library that contains the interfaces, making it easier to create the token without having to write the interfaces from scratch. [Example](https://github.com/nelsongallardo/eth-smart-contracts-beginner-guide/blob/main/examples/TokenWithLibrary.sol) - Also, heres's a guide of how to use the library: [Create ERC20 token](https://ethereum.org/en/developers/tutorials/create-and-deploy-a-defi-app/#create-the-erc20-token) 
 
 ### Further reading
 - [Ethereum Gas Explained](https://defiprime.com/gas)
