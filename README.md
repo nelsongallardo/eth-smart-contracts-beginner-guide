@@ -25,7 +25,7 @@ Just a few links I found useful to start with smart contracts in ethereum.
 
 
 * **[Alchemy](https://alchemyapi.io/eth)**: A development platform and API that allows to make requests to the Ethereum blockchain without having to run a node
-* **[Metamask](https://metamask.io/)**: an ethereum wallet that is also a browser plugin that let me use the Ethereum Mainnet to use dApps. It also allows me to use other networks to test without spending real gas in the Mainnet
+* **[Metamask](https://metamask.io/)**: an ethereum wallet that is also a browser extension that let me use the Ethereum Mainnet to use dApps. This extension will inject a javascript library in every website which will allow a website (if it's a dapp) to connect to the Ethereum network. It also allows me to use other networks to test without spending real gas in the Mainnet.
 * **Hardhat/Truffle**: development environment to debug, compile, deploy, etc. (see IDEs section)
 * **Editor**: could be vsCode
 
